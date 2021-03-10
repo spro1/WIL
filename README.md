@@ -42,11 +42,5 @@ goormlevel
 : 가장 많은 기업에서 사용 중인 사이트 인터페이스가 깔끔
 - https://level.goorm.io/
 
----
-### Contributors
-
-This project exists thanks to all the people who contribute.
-
-![](https://contributors-img.web.app/image?repo=spro1/WIL)
 
 
