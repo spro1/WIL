@@ -56,4 +56,18 @@ print(dq.pop())     #오른쪽에서 pop
 print(dq)
 ```
 
+### Queue 모듈 사용
+```
+import queue
 
+q = queue.Queue()   #선입선출
+# q = queue.LifoQueue() #후입선출
+# q = queue.PriorityQueue() #우선순위 큐
+
+q.put(1)
+q.put(2)
+q.put(3)
+
+print(q.get(1))
+print(q)
+```
