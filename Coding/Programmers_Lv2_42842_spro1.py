@@ -1,6 +1,6 @@
 """
     Date : 2021-04-06
-    Source : https://programmers.co.kr/learn/courses/30/lessons/42842
+    Source : https://programmers.co.kr/learn/courses/30/lessons/42839
 """
 def solution(brown, yellow):
     answer = []
@@ -10,7 +10,6 @@ def solution(brown, yellow):
         k, v = divmod(count, i+1)
         if v==0:
             if(i+1 >= k):
-                
                 if (i-1)*(k-2)== yellow:
                     answer.append(i+1)
                     answer.append(k)
