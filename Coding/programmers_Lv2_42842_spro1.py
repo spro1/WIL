@@ -1,6 +1,6 @@
 """
     Date : 2021-04-06
-    Source : https://programmers.co.kr/learn/courses/30/lessons/42839
+    Source : https://programmers.co.kr/learn/courses/30/lessons/42842
 """
 def solution(brown, yellow):
     answer = []
